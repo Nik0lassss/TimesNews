@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestDb</string>
+
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="dialog_error_title">Sorry</string>
+
+    <string name="empty_articles">Empty articles</string>
+    <string name="error_loading_articles">Empty articles, try internet connection</string>
+    <string name="edit">Edit</string>
+    <string name="sort_ab">Sort by</string>
+    <string name="sorted_info_message">Sorted by date</string>
+
+</resources>
